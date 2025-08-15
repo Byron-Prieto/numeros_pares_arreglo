@@ -1,5 +1,7 @@
 package co.edu.uniquindio.poo;
 
+// Ejercicio #3: Contar números pares en un arreglo usando divide y vencerás
+
 public class Arreglo {
 
      public static int contarPares(int[] arreglo) {
